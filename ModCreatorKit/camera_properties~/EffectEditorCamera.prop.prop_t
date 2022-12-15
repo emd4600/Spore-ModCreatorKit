@@ -1,0 +1,13 @@
+string16 description "EffectEditorCamera"
+float cameraInitialHeading -50
+float cameraInitialOffsetX 0
+float cameraInitialOffsetY 0
+float cameraInitialPitch -8.6000004
+float cameraInitialZoom 5
+float cameraMaxPitch 5
+float cameraMaxZoomDistance 75
+float cameraMinPitch -55
+float cameraMinZoomDistance 0.1
+string16 cameraName "EffectEditorCamera"
+float cameraNearClip 0.2
+uint32 cameraType 0x00fcc521

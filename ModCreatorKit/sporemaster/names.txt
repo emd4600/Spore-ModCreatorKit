@@ -1,0 +1,13 @@
+names
+ChannelsPanel
+camera_properties~	0x40410100
+PropertiesPanel
+layouts_atlas~	0x40464200
+AnimEditorUI
+AnimEditorChannelItem
+ItemText
+AnimEditorChannelItem_COPY
+auto_camera_properties~_EffectEditorCamera
+AnimChannelItem
+EffectEditorCamera
+sporemaster

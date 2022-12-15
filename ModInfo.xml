@@ -1,0 +1,6 @@
+<mod displayName="ModCreatorKit" unique="ModCreatorKit" description="Effects Editor, Anim Editor, hidden dev cheats and other useful tools for mod developers." installerSystemVersion="1.0.1.2" isExperimental="true" dllsBuild="2.5.232">
+	<prerequisite game="GalacticAdventures">ModCreatorKit.package</prerequisite>
+	<prerequisite>ModCreatorKit.dll</prerequisite>
+	<remove>ModCreatorKit-disk.dll</remove>
+	<remove>ModCreatorKit-steam_patched.dll</remove>
+</mod>
